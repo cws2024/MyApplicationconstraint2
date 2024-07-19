@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application constraint</string>
+    <string name="todo">TODO</string>
+    <string name="markattendance">markattendance</string>
+    <string name="mark_attendance">mark attendance</string>
+    <string name="show_attendance">show attendance</string>
+    <string name="home_work">home work</string>
+    <string name="gallery">gallery</string>
+    <string name="pay_fee">pay_fee</string>
+    <string name="pay_ee">pay fee</string>
+    <string name="about">about</string>
+    <string name="home_nwork" />
+</resources>
